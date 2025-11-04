@@ -16,9 +16,8 @@ I'm not your typical developer. I build production systems that process billions
 
 ## 📄 Resume & Cover Letter
 
-- **[Cover Letter](Cover_Letter.md)** - The story of how I work and what drives me
-- **[One-Page Resume](Resume_1Pager.md)** - Quick overview of experience and projects
-- **[Full Resume](Resume_Updated.md)** - Detailed work history and accomplishments
+- **[Cover Letter](docs/bradley_isenbek_cover.md)** - The story of how I work and what drives me
+- **[Resume](docs/bradley_isenbek_resume.md)** - Quick overview of experience and projects
 
 Plain text versions also available: [.txt files](./)
 
