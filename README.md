@@ -27,19 +27,19 @@ Plain text versions also available: [.txt files](./)
 ## 🔬 Current Projects & Lab Work
 
 ### Distributed Investigation Tool
-![Investigation Tool](image1.png)
+![Investigation Tool]
 *60-node Raspberry Pi cluster (40 Pi4 workers, 30 OpenWRT + 10 Bookworm). VPN/Tor architecture with headless browser automation. Currently training models to inject dynamic Playwright code for full-auto web tasks using CDX toolkit for lead seeding.*
 
 ### True Random Number Generator
-![TRNG System](image2.png)
+![TRNG System]
 *Thorium-based cryptographic TRNG with hourly Diehard and NIST statistical validation. Generates cryptographic-quality random bitstreams. Live at [hotbits.tinymachines.ai](https://hotbits.tinymachines.ai). Interface design is a work in progress—I'm getting better at UI, I promise.*
 
 ### Custom Networking & Infrastructure
-![Lab Setup](image3.png)
+![Lab Setup]
 *Custom 802.11 protocol for decentralized network data routing. Self-hosted infrastructure on a Frankenstein Linux box built from salvaged parts. Running my own DNS because understanding how things fit together matters.*
 
 ### Production Work
-![Production Systems](image4.png)
+![Production Systems]
 *Day job: Python, Bash, Snowflake—architecting data systems that scale. Recent project: [oym.nominate.ai](https://oym.nominate.ai). My UI chops are improving with every build.*
 
 ---
